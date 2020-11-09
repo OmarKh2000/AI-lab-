@@ -1,0 +1,6001 @@
+Best: has  (4)
+  0 1 2 3 4 5 6 7 
+0 Q _ _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 Q _ _ _ _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ Q _ 
+5 _ _ Q _ Q _ _ _ 
+6 _ _ _ _ _ _ _ Q 
+7 _ _ _ _ Q _ _ _ 
+Fitness average: 9 -- Deviation: 3.31662
+Generation time: 25 clock ticks = 0.025 seconds
+Best: has  (4)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ Q _ _ _ 
+2 _ _ Q _ _ _ _ _ 
+3 _ _ _ _ _ Q _ _ 
+4 _ _ _ _ _ _ _ _ 
+5 _ Q _ _ _ _ _ _ 
+6 Q _ _ Q _ _ _ _ 
+7 Q _ _ _ _ _ _ _ 
+Fitness average: 8 -- Deviation: 2.64575
+Generation time: 20 clock ticks = 0.02 seconds
+Best: has  (4)
+  0 1 2 3 4 5 6 7 
+0 Q _ _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 Q _ _ _ _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ Q _ 
+5 _ _ Q _ Q _ _ _ 
+6 _ _ _ _ _ _ _ Q 
+7 _ _ _ _ Q _ _ _ 
+Fitness average: 9 -- Deviation: 3.16228
+Generation time: 12 clock ticks = 0.012 seconds
+Best: has  (4)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ Q _ _ _ 
+2 _ _ Q _ _ _ _ _ 
+3 _ _ _ _ _ Q _ _ 
+4 _ _ _ _ _ _ _ _ 
+5 _ Q _ _ _ _ _ _ 
+6 Q _ _ Q _ _ _ _ 
+7 Q _ _ _ _ _ _ _ 
+Fitness average: 8 -- Deviation: 2.82843
+Generation time: 11 clock ticks = 0.011 seconds
+Best: has  (4)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ _ _ 
+1 _ _ Q _ _ _ _ _ 
+2 _ _ _ _ _ Q Q _ 
+3 _ Q _ Q _ _ _ _ 
+4 _ _ _ _ _ _ _ _ 
+5 Q _ _ _ _ _ _ _ 
+6 _ _ _ _ _ _ _ _ 
+7 _ _ _ Q Q _ _ _ 
+Fitness average: 9 -- Deviation: 3.16228
+Generation time: 13 clock ticks = 0.013 seconds
+Best: has  (4)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ Q _ _ _ 
+2 _ _ Q _ _ _ _ _ 
+3 _ _ _ _ _ Q _ _ 
+4 _ _ _ _ _ _ _ _ 
+5 _ Q _ _ _ _ _ _ 
+6 Q _ _ Q _ _ _ _ 
+7 Q _ _ _ _ _ _ _ 
+Fitness average: 8 -- Deviation: 3
+Generation time: 11 clock ticks = 0.011 seconds
+Best: has  (4)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ _ _ 
+1 _ _ Q _ _ _ _ _ 
+2 _ _ _ _ _ Q Q _ 
+3 _ Q _ Q _ _ _ _ 
+4 _ _ _ _ _ _ _ _ 
+5 Q _ _ _ _ _ _ _ 
+6 _ _ _ _ _ _ _ _ 
+7 _ _ _ Q Q _ _ _ 
+Fitness average: 9 -- Deviation: 3
+Generation time: 10 clock ticks = 0.01 seconds
+Best: has  (4)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ Q _ _ _ 
+2 _ _ Q _ _ _ _ _ 
+3 _ _ _ _ _ Q _ _ 
+4 _ _ _ _ _ _ _ _ 
+5 _ Q _ _ _ _ _ _ 
+6 Q _ _ Q _ _ _ _ 
+7 Q _ _ _ _ _ _ _ 
+Fitness average: 8 -- Deviation: 3
+Generation time: 11 clock ticks = 0.011 seconds
+Best: has  (4)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ _ _ 
+1 _ _ Q _ _ _ _ _ 
+2 _ _ _ _ _ Q Q _ 
+3 _ Q _ Q _ _ _ _ 
+4 _ _ _ _ _ _ _ _ 
+5 Q _ _ _ _ _ _ _ 
+6 _ _ _ _ _ _ _ _ 
+7 _ _ _ Q Q _ _ _ 
+Fitness average: 9 -- Deviation: 2.82843
+Generation time: 12 clock ticks = 0.012 seconds
+Best: has  (4)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ Q _ _ _ 
+2 _ _ Q _ _ _ _ _ 
+3 _ _ _ _ _ Q _ _ 
+4 _ _ _ _ _ _ _ _ 
+5 _ Q _ _ _ _ _ _ 
+6 Q _ _ Q _ _ _ _ 
+7 Q _ _ _ _ _ _ _ 
+Fitness average: 8 -- Deviation: 3.16228
+Generation time: 12 clock ticks = 0.012 seconds
+Best: has  (4)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ _ _ 
+1 _ _ Q _ _ _ _ _ 
+2 _ _ _ _ _ Q Q _ 
+3 _ Q _ Q _ _ _ _ 
+4 _ _ _ _ _ _ _ _ 
+5 Q _ _ _ _ _ _ _ 
+6 _ _ _ _ _ _ _ _ 
+7 _ _ _ Q Q _ _ _ 
+Fitness average: 9 -- Deviation: 2.82843
+Generation time: 12 clock ticks = 0.012 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ Q _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ Q _ _ _ _ _ Q 
+3 _ Q _ _ _ _ _ _ 
+4 _ _ _ _ _ _ Q _ 
+5 _ _ _ _ _ _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ _ _ _ 
+Fitness average: 8 -- Deviation: 3.16228
+Generation time: 11 clock ticks = 0.011 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ Q _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ Q _ _ _ _ _ Q 
+3 _ Q _ _ _ _ _ _ 
+4 _ _ _ _ _ _ Q _ 
+5 _ _ _ _ _ _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ _ _ _ 
+Fitness average: 9 -- Deviation: 2.82843
+Generation time: 11 clock ticks = 0.011 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ Q _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ Q _ _ _ _ _ Q 
+3 _ Q _ _ _ _ _ _ 
+4 _ _ _ _ _ _ Q _ 
+5 _ _ _ _ _ _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ _ _ _ 
+Fitness average: 8 -- Deviation: 3.31662
+Generation time: 11 clock ticks = 0.011 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ Q _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ Q _ _ _ _ _ Q 
+3 _ Q _ _ _ _ _ _ 
+4 _ _ _ _ _ _ Q _ 
+5 _ _ _ _ _ _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ _ _ _ 
+Fitness average: 9 -- Deviation: 2.82843
+Generation time: 11 clock ticks = 0.011 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ Q _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ Q _ _ _ _ _ Q 
+3 _ Q _ _ _ _ _ _ 
+4 _ _ _ _ _ _ Q _ 
+5 _ _ _ _ _ _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ _ _ _ 
+Fitness average: 8 -- Deviation: 3.31662
+Generation time: 12 clock ticks = 0.012 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ Q _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ Q _ _ _ _ _ Q 
+3 _ Q _ _ _ _ _ _ 
+4 _ _ _ _ _ _ Q _ 
+5 _ _ _ _ _ _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ _ _ _ 
+Fitness average: 9 -- Deviation: 2.82843
+Generation time: 13 clock ticks = 0.013 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ Q _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ Q _ _ _ _ _ Q 
+3 _ Q _ _ _ _ _ _ 
+4 _ _ _ _ _ _ Q _ 
+5 _ _ _ _ _ _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ _ _ _ 
+Fitness average: 8 -- Deviation: 3.4641
+Generation time: 17 clock ticks = 0.017 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ Q _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ Q _ _ _ _ _ Q 
+3 _ Q _ _ _ _ _ _ 
+4 _ _ _ _ _ _ Q _ 
+5 _ _ _ _ _ _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ _ _ _ 
+Fitness average: 9 -- Deviation: 2.82843
+Generation time: 12 clock ticks = 0.012 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ Q _ _ 
+1 _ _ _ _ _ _ _ _ 
+2 _ _ _ _ Q _ _ _ 
+3 _ Q _ _ Q _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ Q _ _ _ _ _ 
+Fitness average: 8 -- Deviation: 3.4641
+Generation time: 13 clock ticks = 0.013 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ Q _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ Q _ _ _ _ _ Q 
+3 _ Q _ _ _ _ _ _ 
+4 _ _ _ _ _ _ Q _ 
+5 _ _ _ _ _ _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ _ _ _ 
+Fitness average: 9 -- Deviation: 2.82843
+Generation time: 12 clock ticks = 0.012 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ Q _ _ 
+1 _ _ _ _ _ _ _ _ 
+2 _ _ _ _ Q _ _ _ 
+3 _ Q _ _ Q _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ Q _ _ _ _ _ 
+Fitness average: 8 -- Deviation: 3.60555
+Generation time: 11 clock ticks = 0.011 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ Q _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ Q _ _ _ _ _ Q 
+3 _ Q _ _ _ _ _ _ 
+4 _ _ _ _ _ _ Q _ 
+5 _ _ _ _ _ _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ _ _ _ 
+Fitness average: 9 -- Deviation: 2.82843
+Generation time: 14 clock ticks = 0.014 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ Q _ _ 
+1 _ _ _ _ _ _ _ _ 
+2 _ _ _ _ Q _ _ _ 
+3 _ Q _ _ Q _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ Q _ _ _ _ _ 
+Fitness average: 8 -- Deviation: 3.60555
+Generation time: 12 clock ticks = 0.012 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ Q _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ Q _ _ _ _ _ Q 
+3 _ Q _ _ _ _ _ _ 
+4 _ _ _ _ _ _ Q _ 
+5 _ _ _ _ _ _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ _ _ _ 
+Fitness average: 9 -- Deviation: 3
+Generation time: 12 clock ticks = 0.012 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ Q _ _ 
+1 _ _ _ _ _ _ _ _ 
+2 _ _ _ _ Q _ _ _ 
+3 _ Q _ _ Q _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ Q _ _ _ _ _ 
+Fitness average: 8 -- Deviation: 3.74166
+Generation time: 12 clock ticks = 0.012 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ Q _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ Q _ _ _ _ _ Q 
+3 _ Q _ _ _ _ _ _ 
+4 _ _ _ _ _ _ Q _ 
+5 _ _ _ _ _ _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ _ _ _ 
+Fitness average: 9 -- Deviation: 2.82843
+Generation time: 12 clock ticks = 0.012 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ Q _ _ Q _ _ 
+1 _ _ _ _ _ _ _ Q 
+2 _ _ Q _ _ _ _ _ 
+3 _ _ _ _ Q _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ _ _ _ _ 
+6 Q _ _ _ _ _ _ _ 
+7 _ _ _ _ _ _ Q _ 
+Fitness average: 8 -- Deviation: 3.87298
+Generation time: 13 clock ticks = 0.013 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ Q _ _ 
+1 _ _ _ _ _ _ _ _ 
+2 _ _ _ _ Q _ _ _ 
+3 _ Q _ _ Q _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ Q _ _ _ _ _ 
+Fitness average: 9 -- Deviation: 2.82843
+Generation time: 12 clock ticks = 0.012 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ Q _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ Q _ _ _ _ _ Q 
+3 _ Q _ _ _ _ _ _ 
+4 _ _ _ _ _ _ Q _ 
+5 _ _ _ _ _ _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ _ _ _ 
+Fitness average: 8 -- Deviation: 3.87298
+Generation time: 18 clock ticks = 0.018 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ Q _ _ Q _ _ 
+1 _ _ _ _ _ _ _ Q 
+2 _ _ Q _ _ _ _ _ 
+3 _ _ _ _ Q _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ _ _ _ _ 
+6 Q _ _ _ _ _ _ _ 
+7 _ _ _ _ _ _ Q _ 
+Fitness average: 9 -- Deviation: 2.82843
+Generation time: 12 clock ticks = 0.012 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ Q _ _ 
+1 _ _ _ _ _ _ _ _ 
+2 _ _ _ _ Q _ _ _ 
+3 _ Q _ _ Q _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ Q _ _ _ _ _ 
+Fitness average: 8 -- Deviation: 3.87298
+Generation time: 12 clock ticks = 0.012 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ Q _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ Q _ _ _ _ _ Q 
+3 _ Q _ _ _ _ _ _ 
+4 _ _ _ _ _ _ Q _ 
+5 _ _ _ _ _ _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ _ _ _ 
+Fitness average: 9 -- Deviation: 2.82843
+Generation time: 15 clock ticks = 0.015 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ Q _ _ Q _ _ 
+1 _ _ _ _ _ _ _ Q 
+2 _ _ Q _ _ _ _ _ 
+3 _ _ _ _ Q _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ _ _ _ _ 
+6 Q _ _ _ _ _ _ _ 
+7 _ _ _ _ _ _ Q _ 
+Fitness average: 8 -- Deviation: 3.87298
+Generation time: 15 clock ticks = 0.015 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ Q _ _ 
+1 _ _ _ _ _ _ _ _ 
+2 _ _ _ _ Q _ _ _ 
+3 _ Q _ _ Q _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ Q _ _ _ _ _ 
+Fitness average: 9 -- Deviation: 2.64575
+Generation time: 13 clock ticks = 0.013 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ Q _ _ _ _ Q 
+1 Q _ _ _ _ _ _ _ 
+2 _ _ _ _ _ _ _ Q 
+3 _ _ _ Q _ _ _ _ 
+4 _ Q _ _ _ _ _ _ 
+5 _ _ _ _ _ _ Q _ 
+6 _ _ _ _ _ _ _ _ 
+7 _ Q _ _ _ _ _ _ 
+Fitness average: 8 -- Deviation: 4
+Generation time: 12 clock ticks = 0.012 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ Q _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ Q _ _ _ _ _ Q 
+3 _ Q _ _ _ _ _ _ 
+4 _ _ _ _ _ _ Q _ 
+5 _ _ _ _ _ _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ _ _ _ 
+Fitness average: 9 -- Deviation: 2.64575
+Generation time: 13 clock ticks = 0.013 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ Q _ _ Q _ _ 
+1 _ _ _ _ _ _ _ Q 
+2 _ _ Q _ _ _ _ _ 
+3 _ _ _ _ Q _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ _ _ _ _ 
+6 Q _ _ _ _ _ _ _ 
+7 _ _ _ _ _ _ Q _ 
+Fitness average: 8 -- Deviation: 4
+Generation time: 18 clock ticks = 0.018 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ Q _ _ 
+1 _ _ _ _ _ _ _ _ 
+2 _ _ _ _ Q _ _ _ 
+3 _ Q _ _ Q _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ Q _ _ _ _ _ 
+Fitness average: 9 -- Deviation: 2.64575
+Generation time: 14 clock ticks = 0.014 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ Q _ _ _ _ Q 
+1 Q _ _ _ _ _ _ _ 
+2 _ _ _ _ _ _ _ Q 
+3 _ _ _ Q _ _ _ _ 
+4 _ Q _ _ _ _ _ _ 
+5 _ _ _ _ _ _ Q _ 
+6 _ _ _ _ _ _ _ _ 
+7 _ Q _ _ _ _ _ _ 
+Fitness average: 8 -- Deviation: 4
+Generation time: 13 clock ticks = 0.013 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ Q _ _ 
+1 _ _ _ _ _ _ _ _ 
+2 _ _ _ _ Q _ _ _ 
+3 _ Q _ _ Q _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ Q _ _ _ _ _ 
+Fitness average: 9 -- Deviation: 2.64575
+Generation time: 14 clock ticks = 0.014 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ Q _ _ Q _ _ 
+1 _ _ _ _ _ _ _ Q 
+2 _ _ Q _ _ _ _ _ 
+3 _ _ _ _ Q _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ _ _ _ _ 
+6 Q _ _ _ _ _ _ _ 
+7 _ _ _ _ _ _ Q _ 
+Fitness average: 8 -- Deviation: 4
+Generation time: 14 clock ticks = 0.014 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ Q _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ Q _ _ _ _ _ Q 
+3 _ Q _ _ _ _ _ _ 
+4 _ _ _ _ _ _ Q _ 
+5 _ _ _ _ _ _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ _ _ _ 
+Fitness average: 9 -- Deviation: 2.64575
+Generation time: 14 clock ticks = 0.014 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ Q _ _ _ _ Q 
+1 Q _ _ _ _ _ _ _ 
+2 _ _ _ _ _ _ _ Q 
+3 _ _ _ Q _ _ _ _ 
+4 _ Q _ _ _ _ _ _ 
+5 _ _ _ _ _ _ Q _ 
+6 _ _ _ _ _ _ _ _ 
+7 _ Q _ _ _ _ _ _ 
+Fitness average: 8 -- Deviation: 4
+Generation time: 13 clock ticks = 0.013 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ _ Q 
+1 Q _ _ _ _ _ _ _ 
+2 _ _ Q _ Q _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ Q _ 
+5 Q _ _ _ _ _ _ _ 
+6 _ _ _ Q _ _ _ _ 
+7 _ Q _ _ _ _ _ _ 
+Fitness average: 9 -- Deviation: 2.64575
+Generation time: 14 clock ticks = 0.014 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ Q _ _ 
+1 _ _ _ _ _ _ _ _ 
+2 _ _ _ _ Q _ _ _ 
+3 _ Q _ _ Q _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ Q _ _ _ _ _ 
+Fitness average: 8 -- Deviation: 4.12311
+Generation time: 16 clock ticks = 0.016 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ Q _ _ Q _ _ 
+1 _ _ _ _ _ _ _ Q 
+2 _ _ Q _ _ _ _ _ 
+3 _ _ _ _ Q _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ _ _ _ _ 
+6 Q _ _ _ _ _ _ _ 
+7 _ _ _ _ _ _ Q _ 
+Fitness average: 9 -- Deviation: 2.44949
+Generation time: 14 clock ticks = 0.014 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ Q _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ Q _ _ _ _ _ Q 
+3 _ Q _ _ _ _ _ _ 
+4 _ _ _ _ _ _ Q _ 
+5 _ _ _ _ _ _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ _ _ _ 
+Fitness average: 8 -- Deviation: 4.12311
+Generation time: 13 clock ticks = 0.013 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ Q _ _ _ _ Q 
+1 Q _ _ _ _ _ _ _ 
+2 _ _ _ _ _ _ _ Q 
+3 _ _ _ Q _ _ _ _ 
+4 _ Q _ _ _ _ _ _ 
+5 _ _ _ _ _ _ Q _ 
+6 _ _ _ _ _ _ _ _ 
+7 _ Q _ _ _ _ _ _ 
+Fitness average: 9 -- Deviation: 2.64575
+Generation time: 15 clock ticks = 0.015 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ _ Q 
+1 Q _ _ _ _ _ _ _ 
+2 _ _ Q _ Q _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ Q _ 
+5 Q _ _ _ _ _ _ _ 
+6 _ _ _ Q _ _ _ _ 
+7 _ Q _ _ _ _ _ _ 
+Fitness average: 8 -- Deviation: 4.12311
+Generation time: 13 clock ticks = 0.013 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 Q _ _ _ _ _ Q _ 
+1 _ _ _ _ Q _ _ _ 
+2 _ _ _ _ _ _ _ _ 
+3 _ Q _ _ _ _ _ _ 
+4 _ _ _ Q _ _ _ _ 
+5 _ _ _ _ _ _ _ Q 
+6 _ _ _ _ _ _ _ _ 
+7 _ _ Q Q _ _ _ _ 
+Fitness average: 9 -- Deviation: 2.64575
+Generation time: 14 clock ticks = 0.014 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ _ Q 
+1 Q _ _ _ _ _ _ _ 
+2 _ _ Q _ Q _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ Q _ 
+5 Q _ _ _ _ _ _ _ 
+6 _ _ _ Q _ _ _ _ 
+7 _ Q _ _ _ _ _ _ 
+Fitness average: 8 -- Deviation: 4.12311
+Generation time: 14 clock ticks = 0.014 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ Q _ _ _ _ Q 
+1 Q _ _ _ _ _ _ _ 
+2 _ _ _ _ _ _ _ Q 
+3 _ _ _ Q _ _ _ _ 
+4 _ Q _ _ _ _ _ _ 
+5 _ _ _ _ _ _ Q _ 
+6 _ _ _ _ _ _ _ _ 
+7 _ Q _ _ _ _ _ _ 
+Fitness average: 9 -- Deviation: 2.64575
+Generation time: 15 clock ticks = 0.015 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ Q _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ Q _ _ _ _ _ Q 
+3 _ Q _ _ _ _ _ _ 
+4 _ _ _ _ _ _ Q _ 
+5 _ _ _ _ _ _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ _ _ _ 
+Fitness average: 8 -- Deviation: 4.24264
+Generation time: 15 clock ticks = 0.015 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ Q _ _ Q _ _ 
+1 _ _ _ _ _ _ _ Q 
+2 _ _ Q _ _ _ _ _ 
+3 _ _ _ _ Q _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ _ _ _ _ 
+6 Q _ _ _ _ _ _ _ 
+7 _ _ _ _ _ _ Q _ 
+Fitness average: 9 -- Deviation: 2.64575
+Generation time: 15 clock ticks = 0.015 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ Q _ _ 
+1 _ _ _ _ _ _ _ _ 
+2 _ _ _ _ Q _ _ _ 
+3 _ Q _ _ Q _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ Q _ _ _ _ _ 
+Fitness average: 8 -- Deviation: 4.24264
+Generation time: 14 clock ticks = 0.014 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 Q _ _ _ _ _ Q _ 
+1 _ _ _ _ Q _ _ _ 
+2 _ _ _ _ _ _ _ _ 
+3 _ Q _ _ _ _ _ _ 
+4 _ _ _ Q _ _ _ _ 
+5 _ _ _ _ _ _ _ Q 
+6 _ _ _ _ _ _ _ _ 
+7 _ _ Q Q _ _ _ _ 
+Fitness average: 9 -- Deviation: 2.64575
+Generation time: 15 clock ticks = 0.015 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ _ Q 
+1 Q _ _ _ _ _ _ _ 
+2 _ _ Q _ Q _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ Q _ 
+5 Q _ _ _ _ _ _ _ 
+6 _ _ _ Q _ _ _ _ 
+7 _ Q _ _ _ _ _ _ 
+Fitness average: 8 -- Deviation: 4.24264
+Generation time: 15 clock ticks = 0.015 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ Q _ _ _ _ Q 
+1 Q _ _ _ _ _ _ _ 
+2 _ _ _ _ _ _ _ Q 
+3 _ _ _ Q _ _ _ _ 
+4 _ Q _ _ _ _ _ _ 
+5 _ _ _ _ _ _ Q _ 
+6 _ _ _ _ _ _ _ _ 
+7 _ Q _ _ _ _ _ _ 
+Fitness average: 9 -- Deviation: 2.64575
+Generation time: 16 clock ticks = 0.016 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ Q _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ Q _ _ _ _ _ Q 
+3 _ Q _ _ _ _ _ _ 
+4 _ _ _ _ _ _ Q _ 
+5 _ _ _ _ _ _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ _ _ _ 
+Fitness average: 8 -- Deviation: 4.24264
+Generation time: 16 clock ticks = 0.016 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ Q _ _ Q _ _ 
+1 _ _ _ _ _ _ _ Q 
+2 _ _ Q _ _ _ _ _ 
+3 _ _ _ _ Q _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ _ _ _ _ 
+6 Q _ _ _ _ _ _ _ 
+7 _ _ _ _ _ _ Q _ 
+Fitness average: 9 -- Deviation: 2.64575
+Generation time: 15 clock ticks = 0.015 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ Q _ _ 
+1 _ _ _ _ _ _ _ _ 
+2 _ _ _ _ Q _ _ _ 
+3 _ Q _ _ Q _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ Q _ _ _ _ _ 
+Fitness average: 8 -- Deviation: 4.3589
+Generation time: 16 clock ticks = 0.016 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 Q _ _ _ _ _ Q _ 
+1 _ _ _ _ Q _ _ _ 
+2 _ _ _ _ _ _ _ _ 
+3 _ Q _ _ _ _ _ _ 
+4 _ _ _ Q _ _ _ _ 
+5 _ _ _ _ _ _ _ Q 
+6 _ _ _ _ _ _ _ _ 
+7 _ _ Q Q _ _ _ _ 
+Fitness average: 9 -- Deviation: 2.64575
+Generation time: 26 clock ticks = 0.026 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ _ Q 
+1 Q _ _ _ _ _ _ _ 
+2 _ _ Q _ Q _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ Q _ 
+5 Q _ _ _ _ _ _ _ 
+6 _ _ _ Q _ _ _ _ 
+7 _ Q _ _ _ _ _ _ 
+Fitness average: 8 -- Deviation: 4.3589
+Generation time: 16 clock ticks = 0.016 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ Q _ _ _ _ Q 
+1 Q _ _ _ _ _ _ _ 
+2 _ _ _ _ _ _ _ Q 
+3 _ _ _ Q _ _ _ _ 
+4 _ Q _ _ _ _ _ _ 
+5 _ _ _ _ _ _ Q _ 
+6 _ _ _ _ _ _ _ _ 
+7 _ Q _ _ _ _ _ _ 
+Fitness average: 9 -- Deviation: 2.44949
+Generation time: 22 clock ticks = 0.022 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ Q _ _ _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ _ _ _ _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 _ _ _ _ _ Q _ _ 
+5 _ _ _ _ _ _ _ Q 
+6 _ _ _ Q _ _ _ _ 
+7 Q Q _ _ _ _ _ _ 
+Fitness average: 8 -- Deviation: 4.3589
+Generation time: 21 clock ticks = 0.021 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ Q _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ Q _ _ _ _ _ Q 
+3 _ Q _ _ _ _ _ _ 
+4 _ _ _ _ _ _ Q _ 
+5 _ _ _ _ _ _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ _ _ _ 
+Fitness average: 9 -- Deviation: 2.44949
+Generation time: 17 clock ticks = 0.017 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ Q _ _ Q _ _ 
+1 _ _ _ _ _ _ _ Q 
+2 _ _ Q _ _ _ _ _ 
+3 _ _ _ _ Q _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ _ _ _ _ 
+6 Q _ _ _ _ _ _ _ 
+7 _ _ _ _ _ _ Q _ 
+Fitness average: 8 -- Deviation: 4.3589
+Generation time: 17 clock ticks = 0.017 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ Q _ _ 
+1 _ _ _ _ _ _ _ _ 
+2 _ _ _ _ Q _ _ _ 
+3 _ Q _ _ Q _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ Q _ _ _ _ _ 
+Fitness average: 9 -- Deviation: 2.44949
+Generation time: 19 clock ticks = 0.019 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 Q _ _ _ _ _ Q _ 
+1 _ _ _ _ Q _ _ _ 
+2 _ _ _ _ _ _ _ _ 
+3 _ Q _ _ _ _ _ _ 
+4 _ _ _ Q _ _ _ _ 
+5 _ _ _ _ _ _ _ Q 
+6 _ _ _ _ _ _ _ _ 
+7 _ _ Q Q _ _ _ _ 
+Fitness average: 8 -- Deviation: 4.3589
+Generation time: 17 clock ticks = 0.017 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ _ Q 
+1 Q _ _ _ _ _ _ _ 
+2 _ _ Q _ Q _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ Q _ 
+5 Q _ _ _ _ _ _ _ 
+6 _ _ _ Q _ _ _ _ 
+7 _ Q _ _ _ _ _ _ 
+Fitness average: 9 -- Deviation: 2.44949
+Generation time: 17 clock ticks = 0.017 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ Q _ _ _ _ Q 
+1 Q _ _ _ _ _ _ _ 
+2 _ _ _ _ _ _ _ Q 
+3 _ _ _ Q _ _ _ _ 
+4 _ Q _ _ _ _ _ _ 
+5 _ _ _ _ _ _ Q _ 
+6 _ _ _ _ _ _ _ _ 
+7 _ Q _ _ _ _ _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 16 clock ticks = 0.016 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ Q _ _ _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ _ _ _ _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 _ _ _ _ _ Q _ _ 
+5 _ _ _ _ _ _ _ Q 
+6 _ _ _ Q _ _ _ _ 
+7 Q Q _ _ _ _ _ _ 
+Fitness average: 9 -- Deviation: 2.44949
+Generation time: 17 clock ticks = 0.017 seconds
+Best: has  (3)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ Q _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ Q _ _ _ _ _ Q 
+3 _ Q _ _ _ _ _ _ 
+4 _ _ _ _ _ _ Q _ 
+5 _ _ _ _ _ _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ _ _ _ 
+Fitness average: 8 -- Deviation: 4.3589
+Generation time: 17 clock ticks = 0.017 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 9 -- Deviation: 2.23607
+Generation time: 17 clock ticks = 0.017 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 16 clock ticks = 0.016 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 17 clock ticks = 0.017 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 17 clock ticks = 0.017 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 16 clock ticks = 0.016 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 16 clock ticks = 0.016 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 19 clock ticks = 0.019 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 18 clock ticks = 0.018 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 17 clock ticks = 0.017 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 16 clock ticks = 0.016 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 17 clock ticks = 0.017 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 24 clock ticks = 0.024 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 18 clock ticks = 0.018 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 17 clock ticks = 0.017 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 18 clock ticks = 0.018 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 17 clock ticks = 0.017 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 18 clock ticks = 0.018 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 17 clock ticks = 0.017 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 19 clock ticks = 0.019 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 20 clock ticks = 0.02 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 24 clock ticks = 0.024 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 20 clock ticks = 0.02 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 18 clock ticks = 0.018 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 19 clock ticks = 0.019 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 20 clock ticks = 0.02 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 18 clock ticks = 0.018 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 21 clock ticks = 0.021 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 19 clock ticks = 0.019 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 19 clock ticks = 0.019 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 18 clock ticks = 0.018 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 19 clock ticks = 0.019 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 18 clock ticks = 0.018 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 18 clock ticks = 0.018 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 19 clock ticks = 0.019 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 19 clock ticks = 0.019 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 20 clock ticks = 0.02 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 19 clock ticks = 0.019 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 19 clock ticks = 0.019 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 21 clock ticks = 0.021 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 20 clock ticks = 0.02 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 25 clock ticks = 0.025 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 19 clock ticks = 0.019 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 20 clock ticks = 0.02 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 19 clock ticks = 0.019 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 27 clock ticks = 0.027 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 19 clock ticks = 0.019 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 20 clock ticks = 0.02 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 21 clock ticks = 0.021 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 20 clock ticks = 0.02 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 20 clock ticks = 0.02 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 21 clock ticks = 0.021 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 21 clock ticks = 0.021 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 20 clock ticks = 0.02 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 20 clock ticks = 0.02 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 26 clock ticks = 0.026 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 25 clock ticks = 0.025 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 22 clock ticks = 0.022 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 23 clock ticks = 0.023 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 21 clock ticks = 0.021 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 22 clock ticks = 0.022 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 21 clock ticks = 0.021 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 20 clock ticks = 0.02 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.3589
+Generation time: 23 clock ticks = 0.023 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 23 clock ticks = 0.023 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 21 clock ticks = 0.021 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 21 clock ticks = 0.021 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 22 clock ticks = 0.022 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 22 clock ticks = 0.022 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 21 clock ticks = 0.021 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 22 clock ticks = 0.022 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 23 clock ticks = 0.023 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 23 clock ticks = 0.023 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 24 clock ticks = 0.024 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 23 clock ticks = 0.023 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 23 clock ticks = 0.023 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 23 clock ticks = 0.023 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 23 clock ticks = 0.023 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 22 clock ticks = 0.022 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 23 clock ticks = 0.023 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 23 clock ticks = 0.023 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 23 clock ticks = 0.023 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 23 clock ticks = 0.023 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 23 clock ticks = 0.023 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 24 clock ticks = 0.024 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 23 clock ticks = 0.023 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 24 clock ticks = 0.024 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 24 clock ticks = 0.024 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 24 clock ticks = 0.024 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 24 clock ticks = 0.024 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 24 clock ticks = 0.024 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 25 clock ticks = 0.025 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 24 clock ticks = 0.024 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 25 clock ticks = 0.025 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 25 clock ticks = 0.025 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 27 clock ticks = 0.027 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 25 clock ticks = 0.025 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 24 clock ticks = 0.024 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 26 clock ticks = 0.026 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 25 clock ticks = 0.025 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 25 clock ticks = 0.025 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 24 clock ticks = 0.024 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 25 clock ticks = 0.025 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 28 clock ticks = 0.028 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 26 clock ticks = 0.026 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 26 clock ticks = 0.026 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 26 clock ticks = 0.026 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 26 clock ticks = 0.026 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.3589
+Generation time: 26 clock ticks = 0.026 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 26 clock ticks = 0.026 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 27 clock ticks = 0.027 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 26 clock ticks = 0.026 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 26 clock ticks = 0.026 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 26 clock ticks = 0.026 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 25 clock ticks = 0.025 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 26 clock ticks = 0.026 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 25 clock ticks = 0.025 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 27 clock ticks = 0.027 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 25 clock ticks = 0.025 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 27 clock ticks = 0.027 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 27 clock ticks = 0.027 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 28 clock ticks = 0.028 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 29 clock ticks = 0.029 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 26 clock ticks = 0.026 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 26 clock ticks = 0.026 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 27 clock ticks = 0.027 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 26 clock ticks = 0.026 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 29 clock ticks = 0.029 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 26 clock ticks = 0.026 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 27 clock ticks = 0.027 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 26 clock ticks = 0.026 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 29 clock ticks = 0.029 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 28 clock ticks = 0.028 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 26 clock ticks = 0.026 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 28 clock ticks = 0.028 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 30 clock ticks = 0.03 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 28 clock ticks = 0.028 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 29 clock ticks = 0.029 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 28 clock ticks = 0.028 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 35 clock ticks = 0.035 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 31 clock ticks = 0.031 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 35 clock ticks = 0.035 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 30 clock ticks = 0.03 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 30 clock ticks = 0.03 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 28 clock ticks = 0.028 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 30 clock ticks = 0.03 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 30 clock ticks = 0.03 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 30 clock ticks = 0.03 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 29 clock ticks = 0.029 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 29 clock ticks = 0.029 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 29 clock ticks = 0.029 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 30 clock ticks = 0.03 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 30 clock ticks = 0.03 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 31 clock ticks = 0.031 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 29 clock ticks = 0.029 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 30 clock ticks = 0.03 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 30 clock ticks = 0.03 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 30 clock ticks = 0.03 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 30 clock ticks = 0.03 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 32 clock ticks = 0.032 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 32 clock ticks = 0.032 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 31 clock ticks = 0.031 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 30 clock ticks = 0.03 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 37 clock ticks = 0.037 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 31 clock ticks = 0.031 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 31 clock ticks = 0.031 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 30 clock ticks = 0.03 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 32 clock ticks = 0.032 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 37 clock ticks = 0.037 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 33 clock ticks = 0.033 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 31 clock ticks = 0.031 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 32 clock ticks = 0.032 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 31 clock ticks = 0.031 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 31 clock ticks = 0.031 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 31 clock ticks = 0.031 seconds
+Best: has  (2)
+  0 1 2 3 4 5 6 7 
+0 _ Q _ _ _ _ _ _ 
+1 _ _ _ _ _ Q _ _ 
+2 _ _ _ _ _ Q _ _ 
+3 _ _ Q _ _ _ _ _ 
+4 Q _ _ _ _ _ _ _ 
+5 _ _ _ Q _ _ _ _ 
+6 _ _ _ _ _ _ Q _ 
+7 _ _ _ _ _ _ _ Q 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 33 clock ticks = 0.033 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 34 clock ticks = 0.034 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 39 clock ticks = 0.039 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 31 clock ticks = 0.031 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 34 clock ticks = 0.034 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 32 clock ticks = 0.032 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 33 clock ticks = 0.033 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 32 clock ticks = 0.032 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 43 clock ticks = 0.043 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 39 clock ticks = 0.039 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 34 clock ticks = 0.034 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 33 clock ticks = 0.033 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 35 clock ticks = 0.035 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 35 clock ticks = 0.035 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 34 clock ticks = 0.034 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 35 clock ticks = 0.035 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 36 clock ticks = 0.036 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 35 clock ticks = 0.035 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 34 clock ticks = 0.034 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 34 clock ticks = 0.034 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 35 clock ticks = 0.035 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 35 clock ticks = 0.035 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 34 clock ticks = 0.034 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 35 clock ticks = 0.035 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 39 clock ticks = 0.039 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 36 clock ticks = 0.036 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 36 clock ticks = 0.036 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 35 clock ticks = 0.035 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 36 clock ticks = 0.036 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 35 clock ticks = 0.035 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 34 clock ticks = 0.034 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 35 clock ticks = 0.035 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 35 clock ticks = 0.035 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 36 clock ticks = 0.036 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 36 clock ticks = 0.036 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 35 clock ticks = 0.035 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 35 clock ticks = 0.035 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 36 clock ticks = 0.036 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 35 clock ticks = 0.035 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 36 clock ticks = 0.036 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 38 clock ticks = 0.038 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 40 clock ticks = 0.04 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 38 clock ticks = 0.038 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 37 clock ticks = 0.037 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 38 clock ticks = 0.038 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 37 clock ticks = 0.037 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 38 clock ticks = 0.038 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 37 clock ticks = 0.037 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 37 clock ticks = 0.037 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 37 clock ticks = 0.037 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 37 clock ticks = 0.037 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 37 clock ticks = 0.037 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 38 clock ticks = 0.038 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 38 clock ticks = 0.038 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 39 clock ticks = 0.039 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 36 clock ticks = 0.036 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 41 clock ticks = 0.041 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 42 clock ticks = 0.042 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 39 clock ticks = 0.039 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 40 clock ticks = 0.04 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 38 clock ticks = 0.038 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 41 clock ticks = 0.041 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 49 clock ticks = 0.049 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 44 clock ticks = 0.044 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 42 clock ticks = 0.042 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 41 clock ticks = 0.041 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 42 clock ticks = 0.042 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 40 clock ticks = 0.04 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 42 clock ticks = 0.042 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.3589
+Generation time: 39 clock ticks = 0.039 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 39 clock ticks = 0.039 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.3589
+Generation time: 38 clock ticks = 0.038 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 43 clock ticks = 0.043 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 41 clock ticks = 0.041 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 41 clock ticks = 0.041 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 43 clock ticks = 0.043 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 42 clock ticks = 0.042 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 43 clock ticks = 0.043 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 44 clock ticks = 0.044 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 42 clock ticks = 0.042 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 52 clock ticks = 0.052 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 60 clock ticks = 0.06 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 68 clock ticks = 0.068 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 48 clock ticks = 0.048 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 54 clock ticks = 0.054 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 60 clock ticks = 0.06 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 43 clock ticks = 0.043 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 41 clock ticks = 0.041 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 42 clock ticks = 0.042 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 41 clock ticks = 0.041 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 43 clock ticks = 0.043 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 42 clock ticks = 0.042 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 43 clock ticks = 0.043 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 43 clock ticks = 0.043 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 51 clock ticks = 0.051 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 47 clock ticks = 0.047 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 55 clock ticks = 0.055 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 51 clock ticks = 0.051 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 57 clock ticks = 0.057 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 54 clock ticks = 0.054 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 55 clock ticks = 0.055 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 55 clock ticks = 0.055 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 54 clock ticks = 0.054 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 54 clock ticks = 0.054 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 58 clock ticks = 0.058 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 59 clock ticks = 0.059 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 55 clock ticks = 0.055 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 54 clock ticks = 0.054 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 56 clock ticks = 0.056 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 54 clock ticks = 0.054 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 63 clock ticks = 0.063 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 67 clock ticks = 0.067 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 57 clock ticks = 0.057 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 56 clock ticks = 0.056 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 63 clock ticks = 0.063 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.79583
+Generation time: 64 clock ticks = 0.064 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 56 clock ticks = 0.056 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 54 clock ticks = 0.054 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 57 clock ticks = 0.057 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 57 clock ticks = 0.057 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 58 clock ticks = 0.058 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 59 clock ticks = 0.059 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 57 clock ticks = 0.057 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 58 clock ticks = 0.058 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 58 clock ticks = 0.058 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 58 clock ticks = 0.058 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 59 clock ticks = 0.059 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 66 clock ticks = 0.066 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 65 clock ticks = 0.065 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 65 clock ticks = 0.065 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 63 clock ticks = 0.063 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 62 clock ticks = 0.062 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 67 clock ticks = 0.067 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 66 clock ticks = 0.066 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 61 clock ticks = 0.061 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 66 clock ticks = 0.066 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 72 clock ticks = 0.072 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 67 clock ticks = 0.067 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 61 clock ticks = 0.061 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 61 clock ticks = 0.061 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 62 clock ticks = 0.062 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 71 clock ticks = 0.071 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 68 clock ticks = 0.068 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 59 clock ticks = 0.059 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 59 clock ticks = 0.059 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 65 clock ticks = 0.065 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 67 clock ticks = 0.067 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 68 clock ticks = 0.068 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 62 clock ticks = 0.062 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 61 clock ticks = 0.061 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 69 clock ticks = 0.069 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 68 clock ticks = 0.068 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 64 clock ticks = 0.064 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 80 clock ticks = 0.08 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 68 clock ticks = 0.068 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 70 clock ticks = 0.07 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 60 clock ticks = 0.06 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 70 clock ticks = 0.07 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 69 clock ticks = 0.069 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 65 clock ticks = 0.065 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 68 clock ticks = 0.068 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 75 clock ticks = 0.075 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 75 clock ticks = 0.075 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 63 clock ticks = 0.063 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 64 clock ticks = 0.064 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 67 clock ticks = 0.067 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 71 clock ticks = 0.071 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 67 clock ticks = 0.067 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 70 clock ticks = 0.07 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 66 clock ticks = 0.066 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 80 clock ticks = 0.08 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 72 clock ticks = 0.072 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 70 clock ticks = 0.07 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 81 clock ticks = 0.081 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 73 clock ticks = 0.073 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 72 clock ticks = 0.072 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 66 clock ticks = 0.066 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 76 clock ticks = 0.076 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 70 clock ticks = 0.07 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 66 clock ticks = 0.066 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 69 clock ticks = 0.069 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 74 clock ticks = 0.074 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 77 clock ticks = 0.077 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 66 clock ticks = 0.066 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 69 clock ticks = 0.069 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 75 clock ticks = 0.075 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 75 clock ticks = 0.075 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 70 clock ticks = 0.07 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 70 clock ticks = 0.07 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 74 clock ticks = 0.074 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 74 clock ticks = 0.074 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 66 clock ticks = 0.066 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 74 clock ticks = 0.074 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 86 clock ticks = 0.086 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 68 clock ticks = 0.068 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 73 clock ticks = 0.073 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 76 clock ticks = 0.076 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.3589
+Generation time: 76 clock ticks = 0.076 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 67 clock ticks = 0.067 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.3589
+Generation time: 66 clock ticks = 0.066 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 73 clock ticks = 0.073 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.3589
+Generation time: 68 clock ticks = 0.068 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 69 clock ticks = 0.069 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.3589
+Generation time: 70 clock ticks = 0.07 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 66 clock ticks = 0.066 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.3589
+Generation time: 70 clock ticks = 0.07 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 71 clock ticks = 0.071 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.3589
+Generation time: 67 clock ticks = 0.067 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 71 clock ticks = 0.071 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.24264
+Generation time: 70 clock ticks = 0.07 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 74 clock ticks = 0.074 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.3589
+Generation time: 70 clock ticks = 0.07 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 80 clock ticks = 0.08 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.3589
+Generation time: 69 clock ticks = 0.069 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 70 clock ticks = 0.07 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.3589
+Generation time: 84 clock ticks = 0.084 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 70 clock ticks = 0.07 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.3589
+Generation time: 70 clock ticks = 0.07 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 71 clock ticks = 0.071 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.3589
+Generation time: 71 clock ticks = 0.071 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 71 clock ticks = 0.071 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.3589
+Generation time: 72 clock ticks = 0.072 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 71 clock ticks = 0.071 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 73 clock ticks = 0.073 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 89 clock ticks = 0.089 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 72 clock ticks = 0.072 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 71 clock ticks = 0.071 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 71 clock ticks = 0.071 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 75 clock ticks = 0.075 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 73 clock ticks = 0.073 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 73 clock ticks = 0.073 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 71 clock ticks = 0.071 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 75 clock ticks = 0.075 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 76 clock ticks = 0.076 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 76 clock ticks = 0.076 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 77 clock ticks = 0.077 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 73 clock ticks = 0.073 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 77 clock ticks = 0.077 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 75 clock ticks = 0.075 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 75 clock ticks = 0.075 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 74 clock ticks = 0.074 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.3589
+Generation time: 82 clock ticks = 0.082 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 74 clock ticks = 0.074 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.3589
+Generation time: 75 clock ticks = 0.075 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 82 clock ticks = 0.082 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.3589
+Generation time: 75 clock ticks = 0.075 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 76 clock ticks = 0.076 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.3589
+Generation time: 75 clock ticks = 0.075 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.58258
+Generation time: 77 clock ticks = 0.077 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.47214
+Generation time: 78 clock ticks = 0.078 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.69042
+Generation time: 76 clock ticks = 0.076 seconds
+Best: has  (1)
+  0 1 2 3 4 5 6 7 
+0 _ _ _ _ _ _ Q _ 
+1 _ Q _ _ _ _ _ _ 
+2 _ _ _ Q _ _ _ _ 
+3 _ _ _ _ _ _ _ _ 
+4 _ _ _ _ _ _ _ Q 
+5 _ _ _ _ Q _ _ _ 
+6 _ _ Q _ _ _ _ _ 
+7 Q _ _ _ _ Q _ _ 
+Fitness average: 8 -- Deviation: 4.3589
+Generation time: 78 clock ticks = 0.078 seconds
+Failed to find the solution after time: 19716 clock ticks  = 19.716 seconds

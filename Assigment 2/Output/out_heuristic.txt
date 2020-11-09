@@ -1,0 +1,100 @@
+Best: K`a`M V`svg- (150)
+Fitness average: 434 -- Deviation: 87.4643
+Generation time: 2 clock ticks = 0.002 seconds
+Best: K`a`M V`svg- (150)
+Fitness average: 363 -- Deviation: 67.7864
+Generation time: 2 clock ticks = 0.002 seconds
+Best: K`a`M V`svg- (150)
+Fitness average: 309 -- Deviation: 60.7454
+Generation time: 2 clock ticks = 0.002 seconds
+Best: DvkYu-fcpse* (120)
+Fitness average: 266 -- Deviation: 51
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Kmrls/krWdi% (106)
+Fitness average: 229 -- Deviation: 46.1411
+Generation time: 3 clock ticks = 0.003 seconds
+Best: Uvuojgmtha$ (92)
+Fitness average: 198 -- Deviation: 41.3642
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Khksf;wqwlj (77)
+Fitness average: 173 -- Deviation: 37.8021
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Edhli(wqwsW* (68)
+Fitness average: 151 -- Deviation: 34.2783
+Generation time: 2 clock ticks = 0.002 seconds
+Best: @mrls/wqwlj (67)
+Fitness average: 131 -- Deviation: 32.4808
+Generation time: 3 clock ticks = 0.003 seconds
+Best: C_llj'wqwlj (48)
+Fitness average: 115 -- Deviation: 29
+Generation time: 2 clock ticks = 0.002 seconds
+Best: C_llj'wqwlj (48)
+Fitness average: 102 -- Deviation: 29.3087
+Generation time: 1 clock ticks = 0.001 seconds
+Best: Odnls tmymc! (37)
+Fitness average: 92 -- Deviation: 25.3969
+Generation time: 3 clock ticks = 0.003 seconds
+Best: Fenoo"umymc" (33)
+Fitness average: 82 -- Deviation: 26.2679
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Fenoo"umymc" (33)
+Fitness average: 75 -- Deviation: 26.6646
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Fenlq!wjsmc! (23)
+Fitness average: 66 -- Deviation: 24.2899
+Generation time: 1 clock ticks = 0.001 seconds
+Best: Fenlq!wjsmc! (23)
+Fitness average: 60 -- Deviation: 25.5343
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Ddllo wmwme# (23)
+Fitness average: 53 -- Deviation: 24.8596
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Geoln rpslc! (20)
+Fitness average: 48 -- Deviation: 25.219
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Kenls woslc! (16)
+Fitness average: 43 -- Deviation: 22.4722
+Generation time: 1 clock ticks = 0.001 seconds
+Best: Kelln wpsmc! (14)
+Fitness average: 39 -- Deviation: 22.6495
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Fenlo wmrle  (13)
+Fitness average: 35 -- Deviation: 23.516
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Iello wotlc! (7)
+Fitness average: 32 -- Deviation: 23.7276
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Iello wotlc! (7)
+Fitness average: 29 -- Deviation: 22.8035
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Iello wotlc! (7)
+Fitness average: 27 -- Deviation: 24.0416
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Iello wmrld! (5)
+Fitness average: 24 -- Deviation: 23.5372
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Iello worlc! (4)
+Fitness average: 23 -- Deviation: 23.3666
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Fello world! (3)
+Fitness average: 20 -- Deviation: 22.383
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Fello world! (3)
+Fitness average: 18 -- Deviation: 23.4307
+Generation time: 1 clock ticks = 0.001 seconds
+Best: Iello world! (2)
+Fitness average: 16 -- Deviation: 22.9565
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Iello world! (2)
+Fitness average: 15 -- Deviation: 22.7596
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Iello world! (2)
+Fitness average: 15 -- Deviation: 22.8254
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Iello world! (2)
+Fitness average: 14 -- Deviation: 22.7596
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Hello world! (0)
+Fitness average: 13 -- Deviation: 22.5167
+Generation time: 2 clock ticks = 0.002 seconds
+Reached a local optima with time: 65 clock ticks  = 0.065 seconds

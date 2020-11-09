@@ -1,0 +1,70 @@
+Best: _Icvm!k`c[\9 (176)
+Fitness average: 432 -- Deviation: 83.2226
+Generation time: 7 clock ticks = 0.007 seconds
+Best: GhOos@cykZu& (161)
+Fitness average: 364 -- Deviation: 71.9027
+Generation time: 6 clock ticks = 0.006 seconds
+Best: F[jhw)[niML& (145)
+Fitness average: 307 -- Deviation: 59.6992
+Generation time: 6 clock ticks = 0.006 seconds
+Best: 4ewhj/lnvir- (111)
+Fitness average: 262 -- Deviation: 54.231
+Generation time: 6 clock ticks = 0.006 seconds
+Best: Bdgloxslts' (68)
+Fitness average: 219 -- Deviation: 52.9623
+Generation time: 6 clock ticks = 0.006 seconds
+Best: Bdgloxslts' (68)
+Fitness average: 184 -- Deviation: 46.9361
+Generation time: 5 clock ticks = 0.005 seconds
+Best: Ffwmn%qotih! (46)
+Fitness average: 154 -- Deviation: 40.1871
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Ffwmn%qotih! (46)
+Fitness average: 130 -- Deviation: 33.7639
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Ffwmn%qotih! (46)
+Fitness average: 111 -- Deviation: 29.8329
+Generation time: 3 clock ticks = 0.003 seconds
+Best: Fflqt pntjd! (33)
+Fitness average: 94 -- Deviation: 27.5862
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Fflqt pntjd! (33)
+Fitness average: 81 -- Deviation: 28.688
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Hflqp!xntid# (26)
+Fitness average: 70 -- Deviation: 25.9615
+Generation time: 3 clock ticks = 0.003 seconds
+Best: Fbllo!smrne  (24)
+Fitness average: 61 -- Deviation: 25.923
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Heqho world! (11)
+Fitness average: 53 -- Deviation: 25.4362
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Hdlmq xorld" (11)
+Fitness average: 47 -- Deviation: 24.1247
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Heklo wlrnd! (9)
+Fitness average: 41 -- Deviation: 24.7386
+Generation time: 3 clock ticks = 0.003 seconds
+Best: Helmo yorjd! (8)
+Fitness average: 36 -- Deviation: 23.1301
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Gdllo worlc! (6)
+Fitness average: 31 -- Deviation: 23.2379
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Gdllo worlc! (6)
+Fitness average: 29 -- Deviation: 22.9783
+Generation time: 3 clock ticks = 0.003 seconds
+Best: Hello!world! (2)
+Fitness average: 25 -- Deviation: 23.0868
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Hello!world! (2)
+Fitness average: 22 -- Deviation: 23.5797
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Hello!world! (2)
+Fitness average: 20 -- Deviation: 22.9347
+Generation time: 3 clock ticks = 0.003 seconds
+Best: Hello world! (0)
+Fitness average: 17 -- Deviation: 23.2809
+Generation time: 2 clock ticks = 0.002 seconds
+Reached a local optima with time: 75 clock ticks  = 0.075 seconds

@@ -1,0 +1,71 @@
+starting with genes:
+
+Printing all genes
+fitness: 32 tree: NOT(AND(AND(B,B),NOT(B,)),)
+fitness: 25 tree: OR(OR(OR(B,B),AND(B,A)),OR(OR(B,B),AND(A,A)))
+fitness: 14 tree: AND(AND(NOT(A,),NOT(A,)),NOT(AND(B,A),))
+fitness: 24 tree: OR(NOT(NOT(B,),),OR(OR(A,B),OR(A,A)))
+fitness: 24 tree: AND(NOT(OR(B,B),),AND(AND(A,A),AND(A,A)))
+fitness: 21 tree: NOT(NOT(AND(A,B),),)
+fitness: 11 tree: NOT(NOT(NOT(A,),),)
+fitness: 22 tree: NOT(OR(OR(A,A),OR(B,B)),)
+fitness: 35 tree: OR(AND(NOT(B,),OR(A,B)),AND(NOT(A,),NOT(B,)))
+fitness: 5 tree: AND(AND(OR(B,A),NOT(A,)),OR(NOT(A,),NOT(B,)))
+fitness: 31 tree: NOT(NOT(NOT(B,),),)
+fitness: 15 tree: AND(AND(NOT(A,),NOT(B,)),AND(OR(B,A),NOT(B,)))
+fitness: 4 tree: AND(NOT(AND(A,A),),AND(OR(A,B),OR(B,A)))
+fitness: 13 tree: AND(NOT(NOT(B,),),NOT(OR(B,A),))
+fitness: 25 tree: AND(AND(OR(A,A),AND(B,A)),OR(OR(A,A),NOT(B,)))
+fitness: 11 tree: AND(B,B)
+fitness: 2 tree: AND(B,AND(AND(B,B),NOT(A,)))
+fitness: 23 tree: OR(OR(OR(A,A),A),AND(B,OR(B,A)))
+fitness: 32 tree: A
+fitness: 32 tree: A
+fitness: 24 tree: OR(NOT(NOT(B,),),AND(OR(A,A),NOT(B,)))
+fitness: 12 tree: B
+fitness: 21 tree: AND(A,NOT(OR(B,B),))
+fitness: 11 tree: AND(NOT(OR(A,B),),A)
+fitness: 32 tree: A
+fitness: 11 tree: NOT(A,)
+fitness: 21 tree: AND(AND(AND(B,B),A),A)
+fitness: 40 tree: OR(NOT(B,),A)
+fitness: 32 tree: A
+fitness: 22 tree: NOT(OR(NOT(A,),AND(B,A)),)
+
+Reached a local optima on generation 1 with time: 1 clock ticks  = 0.001 seconds
+Optimum solution: AND(NOT(A,),B)
+
+
+ending with genes:
+
+Printing all genes
+fitness: 0 tree: AND(NOT(A,),B)
+fitness: 2 tree: AND(B,AND(AND(B,B),NOT(A,)))
+fitness: 4 tree: AND(NOT(AND(A,A),),AND(OR(A,B),OR(B,A)))
+fitness: 5 tree: AND(AND(OR(B,A),NOT(A,)),OR(NOT(A,),NOT(B,)))
+fitness: 11 tree: NOT(NOT(NOT(A,),),)
+fitness: 11 tree: NOT(NOT(NOT(A,),),)
+fitness: 11 tree: AND(A,NOT(OR(B,A),))
+fitness: 11 tree: AND(NOT(OR(A,B),),A)
+fitness: 12 tree: B
+fitness: 14 tree: AND(NOT(OR(B,B),),AND(AND(B,B),NOT(A,)))
+fitness: 15 tree: AND(OR(NOT(A,),NOT(B,)),AND(NOT(B,),AND(B,A)))
+fitness: 21 tree: AND(AND(AND(B,B),A),A)
+fitness: 22 tree: NOT(AND(NOT(A,),NOT(B,)),)
+fitness: 22 tree: NOT(AND(OR(A,B),AND(B,A)),)
+fitness: 23 tree: NOT(OR(NOT(A,),AND(B,A)),NOT(A,))
+fitness: 24 tree: OR(OR(OR(B,B),AND(B,A)),OR(OR(B,B),A))
+fitness: 24 tree: OR(NOT(NOT(B,),),AND(OR(A,B),OR(B,A)))
+fitness: 30 tree: OR(NOT(B,),B)
+fitness: 30 tree: NOT(AND(B,B),)
+fitness: 31 tree: NOT(B,)
+fitness: 31 tree: NOT(NOT(NOT(B,),),)
+fitness: 31 tree: NOT(NOT(NOT(B,),),)
+fitness: 32 tree: NOT(NOT(NOT(B,),NOT(A,)),)
+fitness: 32 tree: A
+fitness: 32 tree: A
+fitness: 32 tree: A
+fitness: 32 tree: A
+fitness: 33 tree: OR(OR(OR(A,A),A),AND(AND(B,B),A))
+fitness: 34 tree: OR(NOT(OR(B,B),),AND(NOT(A,),NOT(B,)))
+fitness: 35 tree: AND(AND(AND(A,A),OR(A,B)),OR(AND(B,A),NOT(B,)))

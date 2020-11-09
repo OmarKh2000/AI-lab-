@@ -1,0 +1,127 @@
+Best: UTrht:iZr]jA (170)
+Fitness average: 435 -- Deviation: 81.1603
+Generation time: 7 clock ticks = 0.007 seconds
+Best: JusKb hpf\y2 (164)
+Fitness average: 367 -- Deviation: 62.857
+Generation time: 6 clock ticks = 0.006 seconds
+Best: GivV\4uWsseE (159)
+Fitness average: 316 -- Deviation: 56.1249
+Generation time: 4 clock ticks = 0.004 seconds
+Best: JusKb hpqmY( (118)
+Fitness average: 273 -- Deviation: 48.2701
+Generation time: 5 clock ticks = 0.005 seconds
+Best: HWlq^$tZthp3 (110)
+Fitness average: 237 -- Deviation: 45.3542
+Generation time: 3 clock ticks = 0.003 seconds
+Best: Hdlq^$tZthp3 (97)
+Fitness average: 208 -- Deviation: 38.7814
+Generation time: 5 clock ticks = 0.005 seconds
+Best: Dgwl\.upqmY( (84)
+Fitness average: 182 -- Deviation: 37.4032
+Generation time: 4 clock ticks = 0.004 seconds
+Best: Lrgoo$tjqmY( (68)
+Fitness average: 159 -- Deviation: 34.5398
+Generation time: 4 clock ticks = 0.004 seconds
+Best: Hdehb hpmkj& (68)
+Fitness average: 140 -- Deviation: 31.1929
+Generation time: 3 clock ticks = 0.003 seconds
+Best: Hdslo$xrqmY( (45)
+Fitness average: 123 -- Deviation: 32.311
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Hdslo$xrqmY( (45)
+Fitness average: 108 -- Deviation: 31.3847
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Hegoo$xrqmY( (45)
+Fitness average: 96 -- Deviation: 27.7308
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Hdslo#tnqmY( (44)
+Fitness average: 84 -- Deviation: 27.8388
+Generation time: 1 clock ticks = 0.001 seconds
+Best: Hfjlo$tjsse  (34)
+Fitness average: 75 -- Deviation: 25.7488
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Hfjlo$tjsse  (34)
+Fitness average: 68 -- Deviation: 25.5734
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Hekoo hpqmd$ (32)
+Fitness average: 62 -- Deviation: 24.9399
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Hfolo!soqmj& (30)
+Fitness average: 58 -- Deviation: 23.7697
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Helgo!xrrkj& (29)
+Fitness average: 53 -- Deviation: 21.8632
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Hdklo$tpqmd$ (23)
+Fitness average: 50 -- Deviation: 22.7156
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Heloo xpqmd$ (16)
+Fitness average: 47 -- Deviation: 23.8118
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Kello xpqmd$ (16)
+Fitness average: 44 -- Deviation: 24.0208
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Hello xpqmd$ (12)
+Fitness average: 40 -- Deviation: 23.0217
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Hello wpqmd$ (10)
+Fitness average: 36 -- Deviation: 24.2487
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Hello wpqmd$ (10)
+Fitness average: 32 -- Deviation: 22.383
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Hello wpqmd$ (10)
+Fitness average: 29 -- Deviation: 23.1084
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Hello wpqmd$ (10)
+Fitness average: 25 -- Deviation: 21.9089
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Hello wpqmd$ (10)
+Fitness average: 23 -- Deviation: 22.2711
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Hello xoqld$ (8)
+Fitness average: 22 -- Deviation: 23.2379
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Hello xoqld$ (8)
+Fitness average: 21 -- Deviation: 22.4499
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Hello woqld$ (6)
+Fitness average: 20 -- Deviation: 21.587
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Hello wpqld  (6)
+Fitness average: 19 -- Deviation: 22.383
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Hello wprld$ (6)
+Fitness average: 20 -- Deviation: 24.0208
+Generation time: 1 clock ticks = 0.001 seconds
+Best: Hello woqld  (4)
+Fitness average: 18 -- Deviation: 22.3159
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Hello woqld  (4)
+Fitness average: 17 -- Deviation: 22.2486
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Hello woqld  (4)
+Fitness average: 18 -- Deviation: 23.622
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Hello woqld  (4)
+Fitness average: 16 -- Deviation: 23.4521
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Hello woqld  (4)
+Fitness average: 16 -- Deviation: 23.4947
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Hello woqld" (4)
+Fitness average: 15 -- Deviation: 23.2379
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Hello woqld  (4)
+Fitness average: 15 -- Deviation: 23.9583
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Hello world" (2)
+Fitness average: 14 -- Deviation: 23.3666
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Hello woqld! (2)
+Fitness average: 15 -- Deviation: 23.516
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Hello world! (0)
+Fitness average: 14 -- Deviation: 22.9347
+Generation time: 2 clock ticks = 0.002 seconds
+Reached a local optima with time: 105 clock ticks  = 0.105 seconds

@@ -1,0 +1,106 @@
+Best: HbbeU+^_Zux' (157)
+Fitness average: 418 -- Deviation: 85.6796
+Generation time: 6 clock ticks = 0.006 seconds
+Best: HbbeU+^_Zux' (157)
+Fitness average: 352 -- Deviation: 66.6033
+Generation time: 9 clock ticks = 0.009 seconds
+Best: HY5ff!wGose, (145)
+Fitness average: 299 -- Deviation: 60.0333
+Generation time: 9 clock ticks = 0.009 seconds
+Best: 7]mif$^qkkm! (86)
+Fitness average: 258 -- Deviation: 53.5537
+Generation time: 6 clock ticks = 0.006 seconds
+Best: H]mif$^qkkm! (69)
+Fitness average: 224 -- Deviation: 49.6085
+Generation time: 7 clock ticks = 0.007 seconds
+Best: H]mif$vkx\h, (67)
+Fitness average: 198 -- Deviation: 43.5775
+Generation time: 7 clock ticks = 0.007 seconds
+Best: H\hwl(rndjg% (64)
+Fitness average: 175 -- Deviation: 43.6807
+Generation time: 6 clock ticks = 0.006 seconds
+Best: Hkpom vkx\h$ (49)
+Fitness average: 155 -- Deviation: 42.3438
+Generation time: 4 clock ticks = 0.004 seconds
+Best: Gahpo,ovrk`  (46)
+Fitness average: 136 -- Deviation: 40.8289
+Generation time: 5 clock ticks = 0.005 seconds
+Best: Gahpo,ovrk`  (46)
+Fitness average: 122 -- Deviation: 37.7094
+Generation time: 4 clock ticks = 0.004 seconds
+Best: Hkpom vkxhb# (34)
+Fitness average: 106 -- Deviation: 33.1964
+Generation time: 4 clock ticks = 0.004 seconds
+Best: Hkpom vkxhb# (34)
+Fitness average: 93 -- Deviation: 32
+Generation time: 4 clock ticks = 0.004 seconds
+Best: Jemor"rolja! (27)
+Fitness average: 83 -- Deviation: 32.28
+Generation time: 4 clock ticks = 0.004 seconds
+Best: H]mom vnkke! (25)
+Fitness average: 77 -- Deviation: 32.0312
+Generation time: 5 clock ticks = 0.005 seconds
+Best: Ggiom vnkke! (22)
+Fitness average: 70 -- Deviation: 31.3688
+Generation time: 3 clock ticks = 0.003 seconds
+Best: Gdjlm vnxna! (19)
+Fitness average: 65 -- Deviation: 32.4345
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Gdjlm vnxna! (19)
+Fitness average: 58 -- Deviation: 33.3167
+Generation time: 3 clock ticks = 0.003 seconds
+Best: Gdjlm&vouke! (18)
+Fitness average: 50 -- Deviation: 30.5778
+Generation time: 3 clock ticks = 0.003 seconds
+Best: Hgmno vovjd! (12)
+Fitness average: 41 -- Deviation: 23.4947
+Generation time: 3 clock ticks = 0.003 seconds
+Best: Hgmno vovjd! (12)
+Fitness average: 36 -- Deviation: 24
+Generation time: 3 clock ticks = 0.003 seconds
+Best: Gdjlm workb! (9)
+Fitness average: 33 -- Deviation: 22.4499
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Jemlo wnrkc! (6)
+Fitness average: 31 -- Deviation: 24
+Generation time: 3 clock ticks = 0.003 seconds
+Best: Jemlo wnrkc! (6)
+Fitness average: 29 -- Deviation: 24.1661
+Generation time: 3 clock ticks = 0.003 seconds
+Best: Hemlo vorke! (4)
+Fitness average: 26 -- Deviation: 23.3024
+Generation time: 3 clock ticks = 0.003 seconds
+Best: Hemlo vorke! (4)
+Fitness average: 24 -- Deviation: 23.4521
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Gemlo worke! (4)
+Fitness average: 22 -- Deviation: 22.2935
+Generation time: 3 clock ticks = 0.003 seconds
+Best: Gemlo worke! (4)
+Fitness average: 21 -- Deviation: 22.7376
+Generation time: 3 clock ticks = 0.003 seconds
+Best: Hemlo worke! (3)
+Fitness average: 19 -- Deviation: 21.7256
+Generation time: 3 clock ticks = 0.003 seconds
+Best: Hemlo worke! (3)
+Fitness average: 17 -- Deviation: 21.9773
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Hemlo world! (1)
+Fitness average: 16 -- Deviation: 22.0454
+Generation time: 3 clock ticks = 0.003 seconds
+Best: Hemlo world! (1)
+Fitness average: 15 -- Deviation: 22.7156
+Generation time: 3 clock ticks = 0.003 seconds
+Best: Hemlo world! (1)
+Fitness average: 15 -- Deviation: 23.5584
+Generation time: 2 clock ticks = 0.002 seconds
+Best: Hemlo world! (1)
+Fitness average: 14 -- Deviation: 22.0227
+Generation time: 3 clock ticks = 0.003 seconds
+Best: Hemlo world! (1)
+Fitness average: 13 -- Deviation: 22.8473
+Generation time: 3 clock ticks = 0.003 seconds
+Best: Hello world! (0)
+Fitness average: 12 -- Deviation: 23.0651
+Generation time: 3 clock ticks = 0.003 seconds
+Reached a local optima with time: 138 clock ticks  = 0.138 seconds

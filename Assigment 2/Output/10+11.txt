@@ -1,0 +1,114 @@
+KNAPSACK + minimum conflict
+Question 10) minimum conflict ran way faster. The idea of combining both of them might work well. We can do a minimum conflict iteration after each mating iteration or to use minimum conflict
+In our elite result each mating iteration.
+Question11)
+Test1)
+4496 clock ticks  = 4.496 seconds
+Items are:
+1
+1
+1
+1
+0
+1
+0
+0
+0
+0
+
+
+TEST2)
+ 3612 clock ticks  = 3.612 seconds
+Items are:
+0
+1
+1
+1
+0
+TEST3) 
+4307 clock ticks  = 4.307 seconds
+Items are:
+1
+1
+0
+0
+1
+0
+TEST4)
+5664 clock ticks  = 5.664 seconds
+Items are:
+1
+0
+0
+1
+0
+0
+0
+
+TEST5) 
+7393 clock ticks  = 7.393 seconds
+Items are:
+1
+0
+1
+1
+1
+0
+1
+1
+TEST6)
+5315 clock ticks  = 5.315 seconds
+Items are:
+0
+1
+0
+1
+0
+0
+1
+TEST7)
+12311 clock ticks  = 12.311 seconds
+Items are:
+1
+1
+1
+0
+0
+0
+0
+1
+1
+1
+1
+0
+0
+0
+1
+TEST8)
+21304 clock ticks  = 21.304 seconds
+Items are:
+0
+1
+0
+1
+0
+0
+1
+0
+1
+1
+0
+1
+1
+0
+0
+1
+1
+0
+0
+0
+0
+1
+1
+1
+

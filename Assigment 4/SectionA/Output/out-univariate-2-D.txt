@@ -1,0 +1,71 @@
+starting with genes:
+
+Printing all genes
+fitness: 46 tree: (((X/X)+(4.000000*-2.000000))-((X-X)/(X+X)))
+fitness: 46 tree: (((3.000000+-9.000000)/(-8.000000*5.000000))/((X*-2.000000)+(X*6.000000)))
+fitness: 46 tree: (((-3.000000--3.000000)*(8.000000/4.000000))/((-1.000000-X)-(X*X)))
+fitness: 46 tree: (((X-X)-(X-X))-((X*3.000000)-(X/-7.000000)))
+fitness: 46 tree: (((X-X)+(X/X))/((X*-9.000000)*(X*X)))
+fitness: 46 tree: (((X--4.000000)-(-4.000000*X))-((1.000000/X)-(X/9.000000)))
+fitness: 46 tree: (((X+9.000000)-(3.000000*0.000000))-((X+-7.000000)+(X--2.000000)))
+fitness: 46 tree: (((6.000000*6.000000)*(X*-3.000000))-((-2.000000/-8.000000)/(6.000000-0.000000)))
+fitness: 46 tree: (((-8.000000-X)-(-7.000000+1.000000))/((-10.000000+X)/(-8.000000*X)))
+fitness: 46 tree: (((-5.000000*-8.000000)/(X/-10.000000))/((X/X)-(X-X)))
+fitness: 46 tree: (((1.000000--9.000000)*(X-X))*((-10.000000/-2.000000)/(X+2.000000)))
+fitness: 46 tree: (((X--1.000000)-(1.000000+X))-((9.000000/X)/(X+X)))
+fitness: 46 tree: (((X+-1.000000)+(-10.000000/X))-((7.000000*X)*(-3.000000+-8.000000)))
+fitness: 46 tree: (((X*X)+(-6.000000+X))+((X/X)-(3.000000--4.000000)))
+fitness: 46 tree: (((9.000000+1.000000)*(X+7.000000))/((7.000000--10.000000)/(4.000000--2.000000)))
+fitness: 45 tree: ((X-(X+X))*((X-X)+(X/-10.000000)))
+fitness: 45 tree: 6.000000
+fitness: 45 tree: -1.000000
+fitness: 44 tree: (X--8.000000)
+fitness: 41 tree: (((6.000000+-10.000000)-(-6.000000-X))/X)
+fitness: 45 tree: X
+fitness: 44 tree: (((X/0.000000)/-3.000000)-((-2.000000-X)-5.000000))
+fitness: 42 tree: (X+(X-(X*X)))
+fitness: 45 tree: 5.000000
+fitness: 43 tree: (-1.000000*(-10.000000*-7.000000))
+fitness: 43 tree: (((X*X)/(X*-6.000000))+X)
+fitness: 41 tree: (6.000000*((-4.000000--1.000000)-(-7.000000/2.000000)))
+fitness: 43 tree: ((9.000000+4.000000)+-7.000000)
+fitness: 45 tree: 0.000000
+fitness: 43 tree: ((X/X)/4.000000)
+
+Reached a local optima on generation 77 with time: 9 clock ticks  = 0.009 seconds
+Optimum solution: ((X*X)+(X--1.000000))
+
+
+ending with genes:
+
+Printing all genes
+fitness: 0 tree: ((X*X)+(X--1.000000))
+fitness: 28 tree: ((-7.000000/-9.000000)+(X-X))
+fitness: 28 tree: ((1.000000+(X+X))-X)
+fitness: 29 tree: (X+((X-X)/(-8.000000--8.000000)))
+fitness: 35 tree: (X/(X-X))
+fitness: 40 tree: (X*X)
+fitness: 41 tree: ((-2.000000-X)/X)
+fitness: 42 tree: ((X-(X*-8.000000))-X)
+fitness: 42 tree: (-2.000000+(-10.000000-(X/X)))
+fitness: 43 tree: ((4.000000-5.000000)+-10.000000)
+fitness: 43 tree: ((X-X)+X)
+fitness: 43 tree: ((X-X)+X)
+fitness: 43 tree: ((X/8.000000)-X)
+fitness: 43 tree: ((X-X)+X)
+fitness: 43 tree: ((X--1.000000)--10.000000)
+fitness: 43 tree: ((X+-8.000000)-X)
+fitness: 43 tree: ((X--1.000000)/X)
+fitness: 43 tree: (8.000000-(-8.000000+-1.000000))
+fitness: 43 tree: (X*(4.000000*X))
+fitness: 44 tree: (X-X)
+fitness: 44 tree: (-9.000000+-1.000000)
+fitness: 44 tree: ((X-((9.000000-X)/(9.000000-X)))/-10.000000)
+fitness: 44 tree: (-2.000000--2.000000)
+fitness: 44 tree: (-4.000000/X)
+fitness: 44 tree: (4.000000+-4.000000)
+fitness: 45 tree: X
+fitness: 45 tree: -10.000000
+fitness: 45 tree: X
+fitness: 45 tree: 7.000000
+fitness: 45 tree: X
